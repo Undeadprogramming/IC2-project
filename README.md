@@ -15,5 +15,8 @@
 4. Vytvoř soubor `.env` a vlož token:
    DISCORD_TOKEN=tvuj_token_z_discord_portalu
 
-5. Spusť bota:
+5. Spusť bota passive:
    python main.py --mode passive --out .\exports
+
+6. Spusť bota active:
+   python main.py --mode active --out .\exports --channels "channel ID"
