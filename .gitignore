@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtuální prostředí
+venv/
+
+# Soukromé soubory
+.env
+
+# Exporty
+exports/
