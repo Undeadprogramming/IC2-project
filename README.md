@@ -26,7 +26,6 @@
 ## Instalace pro linux
 
 1. Klonuj repozitář:  
-   ```bash
    git clone https://github.com/uzivatel/discord-bot-project.git
    cd discord-bot-project
 
