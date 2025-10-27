@@ -8,7 +8,6 @@
 2. Vytvoř virtuální prostředí:
    python -m venv venv
    pro windows: .\venv\Scripts\Activate.ps1
-   pro linux: source venv/bin/activate
 
 3. Nainstaluj knihovny:
    pip install -r requirements.txt
